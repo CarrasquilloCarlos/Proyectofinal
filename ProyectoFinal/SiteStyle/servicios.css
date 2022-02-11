@@ -1,0 +1,62 @@
+
+
+h1 {
+    position: relative;
+    left: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      
+}
+
+#contenido{
+    width: 950px;
+    
+}
+ul {
+    list-style-type: none;
+    text-align: left;
+}
+#navegacion{
+    width: 150px;
+    float: left;
+    background: lightgreen;
+    height: 150px;
+
+}
+#Servicios1{
+    width: 500px;
+    height: 2000px;
+    float: left;
+    
+    margin-left: 50px;
+    
+    
+    
+    
+}
+#pie{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    float: left;
+    
+}
+
+    
+    
+    
+    
+ 
+
+
+
+    
+   
+
+
+
+
+   
+
+   
+
+

@@ -1,0 +1,42 @@
+
+
+h1 {
+    position: relative;
+    left: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      
+}
+
+#contenido{
+    width: 950px;
+    
+}
+#navegacion{
+    width: 200px;
+    float: left;
+    background: lightgreen;
+    height: 150px;
+
+}
+ul{
+    list-style-type: none;
+}
+#sobremi{
+    width: 600px;
+    height: 300px;
+    float: right;
+    margin-right: 100px;
+}
+#pie{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    float: left;
+}
+#tabla{
+    float: right;
+    border-style: double;
+    margin-right: 225px;
+    width: fit-content;
+    height: fit-content;    
+}

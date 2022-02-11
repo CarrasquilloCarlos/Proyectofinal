@@ -1,0 +1,62 @@
+
+
+h1 {
+    position: relative;
+    left: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      
+}
+
+#contenido{
+    width: 950px;
+    
+}
+#navegacion{
+    width: 200px;
+    float: left;
+    background: lightgreen;
+    height: 150px;
+
+}
+ul{
+    list-style-type: none;
+}
+#bienvenida{
+    width: 600px;
+    height: 300px;
+    float: right;
+    margin-right: 100px;
+}
+#pie{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    float: left;
+    
+}
+input[type=text],select,textarea{
+    width: 100%; 
+    padding: 12px;
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box;
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical;
+}
+#contacto1{
+    width: 600px;
+    height: 500px;
+    float: right;
+}
+#fotos1{
+    width: 600px;
+    float: right;
+}
+
+
+   
+
+   
+
+
